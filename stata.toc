@@ -1,0 +1,3 @@
+v 3
+d Stata commands from Donald Lacombe, Texas Tech University
+p zinbscore Score test of NB against ZINB for choosing inflate() variables

@@ -1,0 +1,7 @@
+v 3
+d zinbscore. Score test of the negative binomial against the zero-inflated negative binomial
+d Jansakul and Hinde (2009) score test with one-step estimates, for choosing inflate() variables.
+d Author: Donald Lacombe, Texas Tech University
+d Distribution-Date: 20261119
+f zinbscore.ado
+f zinbscore.sthlp
